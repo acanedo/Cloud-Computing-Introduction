@@ -8,7 +8,13 @@ Hello, My name is Uday Kadaboina, grad student in ECE.:)
 =======
 Hello, My name is tao.  I am a graduate student in ECE.  I am originally from Pennsylvania, but have lived in Albuquerque since 2001.
 >>>>>>> dcbc66ad1680876b98df6aba2b1c316bca678c76
+<<<<<<< HEAD
 =======
 
 This is stupid
 >>>>>>> f4bce1c41a70a0bb5e26facd885a42c937842347
+=======
+==============xXx==================
+Hello Again! ;)
+==============xXx==================
+>>>>>>> 06edb124b7fc770e93d4d6e26c60ceff3c013c75
