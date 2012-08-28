@@ -4,6 +4,11 @@ Hello, My name is Jarred Kozlick.  I am a graduate student in ECE.  I am origina
 ==============xXx==================
 Hello, My name is Uday Kadaboina, grad student in ECE.:)
 ==============xXx==================
+<<<<<<< HEAD
 =======
 Hello, My name is tao.  I am a graduate student in ECE.  I am originally from Pennsylvania, but have lived in Albuquerque since 2001.
 >>>>>>> dcbc66ad1680876b98df6aba2b1c316bca678c76
+=======
+
+This is stupid
+>>>>>>> f4bce1c41a70a0bb5e26facd885a42c937842347
