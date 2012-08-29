@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Hello, My name is Jarred Kozlick.  I am a graduate student in ECE.  I am originally from Pennsylvania, but have lived in Albuquerque since 2001.
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ==============xXx==================
@@ -22,3 +23,6 @@ Hello Again! ;)
 =======
 I am Kaile
 >>>>>>> 98ed33663dcfa246ef22e4b2dc3b5e24b9bf42fd
+=======
+Huhbhjb
+>>>>>>> ff0204ada56506b1871ee98feeb8d78014c87e3c
